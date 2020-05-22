@@ -105,3 +105,5 @@ ENV/
 
 # models
 logs/
+img/
+img_out/
